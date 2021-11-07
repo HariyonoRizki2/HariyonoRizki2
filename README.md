@@ -22,8 +22,8 @@
 </br>
 
 ### Dukung Aku Lebih Lanjut
-<a href="https://saweria.co/HariyonoRizki">Hariyono Rizki | Saweria.co</a> </b>
-<a href="https://nyawer.co/HariyonoRizki">Hariyono Rizki | Nyawer.co</a> </b>
+<a href="https://saweria.co/HariyonoRizki">Hariyono Rizki | Saweria.co</a> </br>
+<a href="https://nyawer.co/HariyonoRizki">Hariyono Rizki | Nyawer.co</a> </br>
 <a href="https://paypal.me/sitimowife">Hariyono Rizki | Paypal.me</a>
 
 
