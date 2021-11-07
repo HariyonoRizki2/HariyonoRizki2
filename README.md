@@ -20,6 +20,7 @@
 [<img align="left" alt="Hariyono Rizki | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
+
 ### :zap: GitHub Stats
 
   <img align="left" alt="HariyonoRizki2's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=HariyonoRizki2&show_icons=true&hide_border=true" />
