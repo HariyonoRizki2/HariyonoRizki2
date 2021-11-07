@@ -23,7 +23,7 @@
 
 ### Statistik Github Gua
 
-  <img align="left" alt="HariyonoRizki2's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=HariyonoRizki2&show_icons=true&hide_border=true" />
+  <img align="left" alt="Statistik Github HariyonoRizki2" src="https://github-readme-stats.vercel.app/api?username=HariyonoRizki2&show_icons=true&hide_border=true" />
 
 [website]: https://kibotz.xyz
 [twitter]: https://twitter.com/HariyonoRizki
