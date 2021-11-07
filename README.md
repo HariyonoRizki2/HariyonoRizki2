@@ -22,9 +22,9 @@
 </br>
 
 ### Dukung Aku Lebih Lanjut
-<a href="https://saweria.co/HariyonoRizki">Hariyono Rizki | Saweria.co</a> </br>
-<a href="https://nyawer.co/HariyonoRizki">Hariyono Rizki | Nyawer.co</a> </br>
-<a href="https://paypal.me/sitimowife">Hariyono Rizki | Paypal.me</a>
+<a href="https://saweria.co/HariyonoRizki">Hariyono Rizki | Saweria.co</a> (IDR | Indonesian Rupiah) </br>
+<a href="https://nyawer.co/HariyonoRizki">Hariyono Rizki | Nyawer.co</a> (IDR | Indonesian Rupiah) </br>
+<a href="https://paypal.me/sitimowife">Hariyono Rizki | Paypal.me</a> (USD | International Currency)
 
 
 
