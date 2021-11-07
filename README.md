@@ -21,16 +21,19 @@
 
 </br>
 
-### Statistik Github
-
-  <img align="left" alt="Statistik Github HariyonoRizki2" src="https://github-readme-stats.vercel.app/api?username=HariyonoRizki2&show_icons=true&hide_border=true" />
-
-</br>
-
 ### Dukung Aku Lebih Lanjut
 <a href="https://saweria.co/HariyonoRizki">Hariyono Rizki | Saweria.co</a> </b>
 <a href="https://nyawer.co/HariyonoRizki">Hariyono Rizki | Nyawer.co</a> </b>
 <a href="https://paypal.me/sitimowife">Hariyono Rizki | Paypal.me</a>
+
+</br>
+
+### Statistik Github
+
+  <img align="left" alt="Statistik Github HariyonoRizki2" src="https://github-readme-stats.vercel.app/api?username=HariyonoRizki2&show_icons=true&hide_border=true" />
+
+
+
 
 [website]: https://kibotz.xyz
 [twitter]: https://twitter.com/HariyonoRizki
