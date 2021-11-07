@@ -26,7 +26,7 @@
 <a href="https://nyawer.co/HariyonoRizki">Hariyono Rizki | Nyawer.co</a> </b>
 <a href="https://paypal.me/sitimowife">Hariyono Rizki | Paypal.me</a>
 
-</br>
+
 
 ### Statistik Github
 
