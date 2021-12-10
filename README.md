@@ -30,12 +30,12 @@
 
 ### Statistik Github
 
-  <img align="left" alt="Statistik Github HariyonoRizki2" src="https://github-readme-stats.vercel.app/api?username=HariyonoRizki2&show_icons=true&hide_border=true"
+  <img align="left" alt="Statistik Github HariyonoRizki2" src="https://github-readme-stats.vercel.app/api?username=HariyonoRizki2&show_icons=true&hide_border=true" />
 
 ### Business Inquries
 - Email : bisnis.kiki@yahoo.com
 - Whatsapp : <a href="http://wa.me/6285883789662"> Whatsapp</a>
-- Instagram : <a href="https://instagram.com/hariyonorizki_"> Instagram</a> />
+- Instagram : <a href="https://instagram.com/hariyonorizki_"> Instagram</a>
 
 
 [website]: https://kibotz.xyz
