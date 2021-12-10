@@ -8,7 +8,7 @@
 - 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
 - 🌱 Gua sedang Mempelajari Apapun yang ada didunia ini🤣
 - 👯 Gua sedang mencari Kreator yang membuka Kolaborasi
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to draw and play guitar / drums
 
 ### Follow Sosial Mediaku
@@ -32,7 +32,10 @@
 
   <img align="left" alt="Statistik Github HariyonoRizki2" src="https://github-readme-stats.vercel.app/api?username=HariyonoRizki2&show_icons=true&hide_border=true" />
 
-
+### Business Inquries
+- Email : bisnis.kiki@yahoo.com
+- Whatsapp : <a href="http://wa.me/6285883789662"> Whatsapp</a>
+- Instagram : <a href="https://instagram.com/hariyonorizki_"> Instagram</a>
 
 
 [website]: https://kibotz.xyz
