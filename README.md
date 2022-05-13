@@ -37,13 +37,13 @@
 </br>
 
 ## Business Inquries
-- Email : bisnis.kiki@yahoo.com
+- Email : contact@kibotzdev.skom.id
 - Whatsapp : <a href="http://wa.me/6285883789662"> Whatsapp</a>
 - Instagram : <a href="https://instagram.com/hariyonorizki_"> Instagram</a>
 
 </br>
 
-[website]: https://kibotz.xyz
+[website]: https://kibotzdev.skom.id
 [twitter]: https://twitter.com/HariyonoRizki
 [youtube]: https://youtube.com/codeSTACKr
 [instagram]: https://instagram.com/HariyonoRizki_
